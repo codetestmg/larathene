@@ -1,0 +1,8 @@
+{
+  "name": "subchildanyar",
+  "title": "SubChildAnyar",
+  "description": "",
+  "author": "",
+  "version": "1.0",
+  "parent": "childanyar"
+}
